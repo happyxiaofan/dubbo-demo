@@ -1,0 +1,11 @@
+/bin/
+*.project
+*.classpath
+/provider-demo/.settings/
+/provider-demo/target/
+/provider-demo/.classpath
+/provider-demo/.project
+/consumer-demo/.settings/
+/consumer-demo/target/
+/consumer-demo/.classpath
+/consumer-demo/.project
